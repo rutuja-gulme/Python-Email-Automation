@@ -60,7 +60,13 @@ Email sent successfully!
 
 ## Output
 
-Screenshots of the successful execution and received email are available in the `screenshots` folder.
+### Successful Execution
+
+[View email_sent.png](email_sent.png)
+
+### Received Email
+
+[View email_received.png](email_received.png)
 
 ## Security
 
